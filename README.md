@@ -24,9 +24,13 @@ Sistem Informasi Manajemen Rumah Sakit yang saya buat untuk TUBES PBO, saya meng
 
 # Fungsi Fungsi dan Penjelasan singkat
 *Menu Users : Memiliki beberapa sub menu yang fungsinya untuk mengatur user yang bisa mengakses sistem informasi rumah sakit. disini admin bisa menambahkan beberapa akun yang cikal akan dipegang beberapa pegawai nantinya. Admin hanya dapat mengubah passwordnya sendiri serta admin bisa tahu login detailsnya pada saat melakukan perloginan di sistem informasi tersebut
+
 *Menu Patients : Terdapat 2 sub menu, yaitu Registration dan services. Fungsi registration disini untuk menambahkan aabila ada pasien yang masuk. sementara untuk menu services untuk admin ketika seorang pasien meminta suatu layanan terhadap pihak rumah sakit. maka akan didata dan masuk ke database. 
+
 *Menu Doctors : Terdapat 1 sub menu yangfungsinya untuk mendaftarkan seorang dokter dalam sistem administrasi rumah sakit. terdapat juga fungsi untuk mencari dokter yang dicari. apakah masih on job atau off job.
+
 *Menu rooms : terdapat 4 sub menu yang fungsinya untuk mengatur kamar dan ruangan serta pembayaran dan tagihan ruangan rumah sakit. 
+
 *More : tentang aplikasi
 
 # Lisensi Di Bawah! 
